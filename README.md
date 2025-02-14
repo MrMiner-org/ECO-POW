@@ -44,18 +44,21 @@ eco-pow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/eco-pow-cpp.git
-   cd eco-pow-cpp```
+   git clone https://github.com/MrMiner-org/ECO-POW
+   cd eco-pow-cpp
+   ```
    
 2. Create a build directory and run CMake:
 	```bash
 	mkdir build && cd build
 	cmake ..
-	make```
+	make
+	```
 	
 ### Run
 	```bash
-./eco_pow_cpp```
+./eco_pow_cpp
+```
 
 ### Sample Output
 Starting advanced ECO‑PoW computation... Current RealTimeFactor: 1.23 Adjusted difficulty: 4 Tried nonce: 100000, current hash: 0000ab1234... Nonce found: 1234567 Hash: 0000f1a2b3c4d5e6f7... Zero‑Knowledge Proof (simulated): a1b2c3d4e5f6... Time taken: 45.67 seconds
@@ -67,7 +70,8 @@ Tried nonce: 100000, current hash: 0000ab1234...
 Nonce found: 1234567
 Hash: 0000f1a2b3c4d5e6f7...
 Zero‑Knowledge Proof (simulated): a1b2c3d4e5f6...
-Time taken: 45.67 seconds```
+Time taken: 45.67 seconds
+```
 
 
 ## Changelog
