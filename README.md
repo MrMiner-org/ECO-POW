@@ -57,15 +57,14 @@ eco-pow
 	
 ### Run
 
-	```bash
+
 	./eco_pow_cpp
-	```
+
 
 ### Sample Output
 
 Starting advanced ECO‑PoW computation... Current RealTimeFactor: 1.23 Adjusted difficulty: 4 Tried nonce: 100000, current hash: 0000ab1234... Nonce found: 1234567 Hash: 0000f1a2b3c4d5e6f7... Zero‑Knowledge Proof (simulated): a1b2c3d4e5f6... Time taken: 45.67 seconds
 
-	```bash
 	Starting advanced ECO‑PoW computation...
 	Current RealTimeFactor: 1.23
 	Adjusted difficulty: 4
@@ -74,7 +73,7 @@ Starting advanced ECO‑PoW computation... Current RealTimeFactor: 1.23 Adjusted
 	Hash: 0000f1a2b3c4d5e6f7...
 	Zero‑Knowledge Proof (simulated): a1b2c3d4e5f6...
 	Time taken: 45.67 seconds
-	```
+
 
 
 ## Changelog
